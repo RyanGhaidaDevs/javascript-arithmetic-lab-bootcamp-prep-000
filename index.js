@@ -31,7 +31,8 @@ function dec(n) {
   
 function makeInt(n) {
     var parsed = parseInt('n', 10)
-     
+      if (isNaN(parsed)) { return 0 }
+  return parsed
 }
 
 function preserveDecimal(n) {
