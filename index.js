@@ -10,11 +10,11 @@ function subtract(a,b) {
 }
 
 function multiply (a,b) {
-var c = a * b
-return c 
+  var c = a * b
+  return c 
 }
 
 function divide(a,b) {
    var c = a/b 
-  return c 
+   return c 
 }
