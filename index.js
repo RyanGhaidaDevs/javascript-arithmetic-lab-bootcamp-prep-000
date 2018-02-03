@@ -18,3 +18,8 @@ function divide(a,b) {
    var c = a/b 
    return c 
 }
+
+function inc(n) {
+  var n += n 
+  return n 
+}
