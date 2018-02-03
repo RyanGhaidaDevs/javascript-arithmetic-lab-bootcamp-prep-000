@@ -21,5 +21,16 @@ function divide(a,b) {
 
 function inc(n) {
   var n = n + 1  
-  return y 
+  return n 
 }
+
+function dec(n) {
+  var n = n - 1 
+  return n 
+}
+  
+  function makeInt(n) {
+    parseInt(n)
+    retrun n 
+  }
+  
