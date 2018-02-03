@@ -20,6 +20,6 @@ function divide(a,b) {
 }
 
 function inc(n) {
-  var n += n 
+  var n +=  
   return n 
 }
