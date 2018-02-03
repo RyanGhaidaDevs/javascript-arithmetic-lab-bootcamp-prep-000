@@ -5,7 +5,7 @@ function add(a, b) {
 }
 
 function subtract(a,b) {
-  minusSum = a - b 
+  var minusSum = a - b 
   return minusSum
 }
 
