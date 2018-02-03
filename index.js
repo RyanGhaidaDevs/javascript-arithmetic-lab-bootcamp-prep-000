@@ -31,7 +31,7 @@ function dec(n) {
   
 function makeInt(n) {
      var c = parseInt(n, 10)
-      if (isNaN(c)) { return isNaNNan }
+      if (isNaN(c)) { return isNaN }
   return c
 }
 
