@@ -32,7 +32,7 @@ function dec(n) {
 function makeInt(n) {
      var c = parseInt(n, 10)
       if (isNaN(c)) { return 0 }
-      if (c == !Number) {return isNaN}
+      if (c !== Number) {return isNaN}
   return c
 }
 
