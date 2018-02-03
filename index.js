@@ -5,16 +5,16 @@ function add(a, b) {
 }
 
 function subtract(a,b) {
-  var minusSum = a - b 
-  return minusSum
+  var c = a - b 
+  return c
 }
 
 function multiply (a,b) {
-product = a * b
-return product 
+var c = a * b
+return c 
 }
 
 function divide(a,b) {
-  quotient = a/b 
-  return quotient 
+   var c = a/b 
+  return c 
 }
