@@ -31,6 +31,8 @@ function dec(n) {
   
   function makeInt(n) {
     parseInt(n)
-    retrun n 
+    return n 
   }
+  
+  function ma
   
