@@ -30,9 +30,9 @@ function dec(n) {
 }
   
   function makeInt(n) {
-    parseInt(n)
+    parseInt('n', 10)
     return n 
   }
   
-  function ma
+  
   
